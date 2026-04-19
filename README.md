@@ -42,55 +42,50 @@
 </table>
 
 ---
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-### Languages
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### Languages  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript)
 ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java)
 ![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql)
 
----
+### Backend  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![NodeJS](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js)
+![REST API](https://img.shields.io/badge/rest_api-02569B?style=for-the-badge)
 
-### AI / ML
+### Frontend  
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react)
+![NextJS](https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+</td>
+<td valign="top" width="50%">
+
+### AI / ML  
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy)
 ![OpenAI](https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai)
 
----
-
-### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js)
-![REST API](https://img.shields.io/badge/rest_api-02569B?style=for-the-badge)
-
----
-
-### Frontend
-![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react)
-![NextJS](https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css)
-
----
-
-### Data Engineering
+### Data Engineering  
 ![Apache Spark](https://img.shields.io/badge/apache_spark-FDEE21?style=for-the-badge&logo=apachespark)
 ![Hadoop](https://img.shields.io/badge/hadoop-66CCFF?style=for-the-badge&logo=apachehadoop)
 
----
-
-### DevOps / Tools
+### DevOps / Tools  
 ![AWS](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux)
 
----
-
-### Salesforce (Prior Experience)
-Apex • LWC • Omnistudio • SOQL • Visualforce • CI/CD • Integrations
-
+</td>
+</tr>
+</table>
 ---
 
 # 🔭 Current Focus
