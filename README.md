@@ -91,7 +91,7 @@
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td width="33%" valign="top">
 
 ### 🔭 Current Focus
 - Machine Learning Engineering
@@ -102,7 +102,7 @@
 - Building AI learning platform
 
 </td>
-<td valign="top" width="33%">
+<td width="33%" valign="top">
 
 ### 🤝 Open to Collaborate On
 - AI projects
@@ -112,8 +112,7 @@
 - System design projects
 
 </td>
-<td valign="top" width="40%">
-
+<td width="33%" valign="top">
 ### ⚡ About Me
 - 🎓 MS Computer Science @ UTA
 - 💼 6+ years in software engineering
