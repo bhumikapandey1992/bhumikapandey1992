@@ -100,7 +100,7 @@
       • Backend systems<br>
       • System design projects
     </td>
-    <td width="33%" valign="top">
+    <td width="34%" valign="top">
       <strong>⚡ About Me</strong><br><br>
       🎓 MS Computer Science @ UTA<br>
       💼 6+ years in software engineering<br>
