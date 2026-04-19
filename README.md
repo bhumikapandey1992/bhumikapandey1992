@@ -90,37 +90,41 @@
 ## ✨ More About Me
 
 <table>
-<tr>
-<td width="33%" valign="top">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🔭 Current Focus</h3>
+      <ul>
+        <li>Machine Learning Engineering</li>
+        <li>LLM Apps & RAG Systems</li>
+        <li>Data Structures & Algorithms</li>
+        <li>System Design</li>
+        <li>Distributed Systems</li>
+        <li>Building AI learning platform</li>
+      </ul>
+    </td>
 
-### 🔭 Current Focus
-- Machine Learning Engineering
-- LLM Apps & RAG Systems
-- Data Structures & Algorithms
-- System Design
-- Distributed Systems
-- Building AI learning platform
+    <td width="33%" valign="top">
+      <h3>🤝 Open to Collaborate On</h3>
+      <ul>
+        <li>AI projects</li>
+        <li>ML applications</li>
+        <li>Open source contributions</li>
+        <li>Backend systems</li>
+        <li>System design projects</li>
+      </ul>
+    </td>
 
-</td>
-<td width="33%" valign="top">
-
-### 🤝 Open to Collaborate On
-- AI projects
-- ML applications
-- Open source contributions
-- Backend systems
-- System design projects
-
-</td>
-<td width="33%" valign="top">
-### ⚡ About Me
-- 🎓 MS Computer Science @ UTA
-- 💼 6+ years in software engineering
-- 🏦 Banking & healthcare systems
-- ☁️ APIs, cloud, distributed systems
-
-</td>
-</tr>
+    <td width="33%" valign="top">
+      <h3>⚡ About Me</h3>
+      <ul>
+        <li>🎓 MS Computer Science @ UTA</li>
+        <li>💼 6+ years in software engineering</li>
+        <li>🏦 Banking & healthcare systems</li>
+        <li>☁️ APIs, cloud, distributed systems</li>
+        <li>🧩 Love solving engineering problems</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ## 🚀 Featured Projects
