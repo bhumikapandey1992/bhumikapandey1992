@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Bhumika Pandey
+# Hi 👋, I'm Bhumika Pandey
 ### Software Engineer | Machine Learning Enthusiast | MS CS @ UTA
 
 💻 Former Salesforce Solution Lead with 6+ years industry experience  
