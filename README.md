@@ -44,8 +44,8 @@
 ---
 ## 💻 Tech Stack
 
-<table width="100%">
-<tr>
+<table>
+<tr width="100%">
 <td valign="top" width="50%">
 
 ### Languages  
