@@ -45,7 +45,7 @@
 ## 💻 Tech Stack
 
 <table>
-<tr width="100%">
+<tr>
 <td valign="top" width="50%">
 
 ### Languages  
@@ -112,14 +112,13 @@
 - System design projects
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="40%">
 
 ### ⚡ About Me
 - 🎓 MS Computer Science @ UTA
 - 💼 6+ years in software engineering
 - 🏦 Banking & healthcare systems
 - ☁️ APIs, cloud, distributed systems
-- 🧩 Love solving engineering problems
 
 </td>
 </tr>
