@@ -83,7 +83,7 @@
 
 <table width="100%">
   <tr>
-    <td width="33%" valign="top">
+    <td valign="top">
       <strong>🔭 Current Focus</strong><br><br>
       • Machine Learning Engineering<br>
       • LLM Apps &amp; RAG Systems<br>
@@ -92,7 +92,7 @@
       • Distributed Systems<br>
       • Building AI learning platform
     </td>
-    <td width="33%" valign="top">
+    <td valign="top">
       <strong>🤝 Open to Collaborate On</strong><br><br>
       • AI projects<br>
       • ML applications<br>
@@ -100,7 +100,7 @@
       • Backend systems<br>
       • System design projects
     </td>
-    <td width="34%" valign="top">
+    <td valign="top">
       <strong>⚡ About Me</strong><br><br>
       🎓 MS Computer Science @ UTA<br>
       💼 6+ years in software engineering<br>
@@ -171,21 +171,21 @@ LeetCode practice ongoing.
 
 <table width="100%">
   <tr>
-    <td width="33%" valign="top">
+    <td valign="top">
       <strong>🤖 AI &amp; Engineering</strong><br><br>
       • Build strong ML portfolio<br>
       • Develop LLM applications<br>
       • Deploy scalable AI systems<br>
       • Master system design
     </td>
-    <td width="33%" valign="top">
+    <td valign="top">
       <strong>📚 Learning Platform</strong><br><br>
       • Build HackerRank-style platform<br>
       • Add coding challenges<br>
       • Add ML learning modules<br>
       • Deploy production version
     </td>
-    <td width="34%" valign="top">
+    <td valign="top">
       <strong>🚀 Personal Growth</strong><br><br>
       • Grow YouTube channel<br>
       • Publish technical content<br>
