@@ -38,151 +38,90 @@
 
 ## 💻 Tech Stack
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>Languages</h3>
-      <p>
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python" />
-        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript" />
-        <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java" />
-        <img src="https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql" />
-      </p>
+**Languages**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java)
+![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql)
 
-      <h3>Backend</h3>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi" />
-        <img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js" />
-        <img src="https://img.shields.io/badge/rest_api-02569B?style=for-the-badge" />
-      </p>
+**Backend**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js)
+![REST API](https://img.shields.io/badge/rest_api-02569B?style=for-the-badge)
 
-      <h3>Frontend</h3>
-      <p>
-        <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react" />
-        <img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=next.js" />
-        <img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css" />
-      </p>
-    </td>
+**Frontend**  
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css)
 
-    <td valign="top" width="50%">
-      <h3>AI / ML</h3>
-      <p>
-        <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn" />
-        <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas" />
-        <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy" />
-        <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai" />
-      </p>
+**AI / ML**  
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy)
+![OpenAI](https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai)
 
-      <h3>Data Engineering</h3>
-      <p>
-        <img src="https://img.shields.io/badge/apache_spark-FDEE21?style=for-the-badge&logo=apachespark" />
-        <img src="https://img.shields.io/badge/hadoop-66CCFF?style=for-the-badge&logo=apachehadoop" />
-      </p>
+**Data Engineering**  
+![Apache Spark](https://img.shields.io/badge/apache_spark-FDEE21?style=for-the-badge&logo=apachespark)
+![Hadoop](https://img.shields.io/badge/hadoop-66CCFF?style=for-the-badge&logo=apachehadoop)
 
-      <h3>DevOps / Tools</h3>
-      <p>
-        <img src="https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonaws" />
-        <img src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker" />
-        <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git" />
-        <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux" />
-      </p>
-    </td>
-  </tr>
-</table>
+**DevOps / Tools**  
+![AWS](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux)
 
 ---
 
 ## ✨ More About Me
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🔭 Current Focus</h3>
-      <ul>
-        <li>Machine Learning Engineering</li>
-        <li>LLM Apps &amp; RAG Systems</li>
-        <li>Data Structures &amp; Algorithms</li>
-        <li>System Design</li>
-        <li>Distributed Systems</li>
-        <li>Building AI learning platform</li>
-      </ul>
-    </td>
+### 🔭 Current Focus
+- Machine Learning Engineering
+- LLM Apps & RAG Systems
+- Data Structures & Algorithms
+- System Design
+- Distributed Systems
+- Building AI learning platform
 
-    <td width="33%" valign="top">
-      <h3>🤝 Open to Collaborate On</h3>
-      <ul>
-        <li>AI projects</li>
-        <li>ML applications</li>
-        <li>Open source contributions</li>
-        <li>Backend systems</li>
-        <li>System design projects</li>
-      </ul>
-    </td>
+### 🤝 Open to Collaborate On
+- AI projects
+- ML applications
+- Open source contributions
+- Backend systems
+- System design projects
 
-    <td width="33%" valign="top">
-      <h3>⚡ About Me</h3>
-      <ul>
-        <li>🎓 MS Computer Science @ UTA</li>
-        <li>💼 6+ years in software engineering</li>
-        <li>🏦 Banking &amp; healthcare systems</li>
-        <li>☁️ APIs, cloud, distributed systems</li>
-        <li>🧩 Love solving engineering problems</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### ⚡ About Me
+- 🎓 MS Computer Science @ UTA
+- 💼 6+ years in software engineering
+- 🏦 Banking & healthcare systems
+- ☁️ APIs, cloud, distributed systems
+- 🧩 Love solving engineering problems
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📄 DocumentChatAI</h3>
-      <p>Chat with documents using Retrieval Augmented Generation (RAG).</p>
+### 📄 DocumentChatAI
+Chat with documents using Retrieval Augmented Generation (RAG).
 
-      <p><strong>Tech:</strong><br>
-      FastAPI • Next.js • LangChain • OpenAI • Redis • Celery</p>
+**Tech:** FastAPI • Next.js • LangChain • OpenAI • Redis • Celery
 
-      <p><strong>Highlights:</strong></p>
-      <ul>
-        <li>Semantic search</li>
-        <li>Context aware responses</li>
-        <li>Scalable backend architecture</li>
-      </ul>
-    </td>
+**Highlights:**
+- Semantic search
+- Context aware responses
+- Scalable backend architecture
 
-    <td width="50%" valign="top">
-      <h3>🧠 AI Learning Platform (WIP)</h3>
-      <p>Interactive learning platform inspired by HackerRank.</p>
+### 🧠 AI Learning Platform (WIP)
+Interactive learning platform inspired by HackerRank.
 
-      <p><strong>Focus Areas:</strong></p>
-      <ul>
-        <li>Python</li>
-        <li>Data Structures &amp; Algorithms</li>
-        <li>Machine Learning</li>
-        <li>SQL</li>
-        <li>System Design</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+**Focus Areas:** Python • Data Structures & Algorithms • Machine Learning • SQL • System Design
 
 ---
 
 ## 🧩 Problem Solving
 
-Currently practicing:
+Currently practicing on LeetCode:
 
-Arrays  
-Strings  
-HashMaps  
-Trees  
-Graphs  
-Dynamic Programming  
-
-LeetCode practice ongoing.
+`Arrays` `Strings` `HashMaps` `Trees` `Graphs` `Dynamic Programming`
 
 ---
 
@@ -204,39 +143,23 @@ LeetCode practice ongoing.
 
 ## 🎯 2026 Goals
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🤖 AI &amp; Engineering</h3>
-      <ul>
-        <li>Build strong ML portfolio</li>
-        <li>Develop LLM applications</li>
-        <li>Deploy scalable AI systems</li>
-        <li>Master system design</li>
-      </ul>
-    </td>
+### 🤖 AI & Engineering
+- Build strong ML portfolio
+- Develop LLM applications
+- Deploy scalable AI systems
+- Master system design
 
-    <td width="33%" valign="top">
-      <h3>📚 Learning Platform</h3>
-      <ul>
-        <li>Build HackerRank-style platform</li>
-        <li>Add coding challenges</li>
-        <li>Add ML learning modules</li>
-        <li>Deploy production version</li>
-      </ul>
-    </td>
+### 📚 Learning Platform
+- Build HackerRank-style platform
+- Add coding challenges
+- Add ML learning modules
+- Deploy production version
 
-    <td width="33%" valign="top">
-      <h3>🚀 Personal Growth</h3>
-      <ul>
-        <li>Grow YouTube channel</li>
-        <li>Publish technical content</li>
-        <li>Launch small business</li>
-        <li>Run 5K marathon</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 🚀 Personal Growth
+- Grow YouTube channel
+- Publish technical content
+- Launch small business
+- Run 5K marathon
 
 ---
 
