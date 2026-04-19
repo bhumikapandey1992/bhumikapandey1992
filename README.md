@@ -8,6 +8,39 @@
 📍 Arlington, Texas  
 📫 bhupandey101@gmail.com  
 
+## 💻 Tech Stack
+
+**Languages**
+<br>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java" />
+<img src="https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql" />
+
+**AI / ML**
+<br>
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn" />
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas" />
+<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy" />
+<img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai" />
+
+**Frameworks**
+<br>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi" />
+<img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=next.js" />
+<img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css" />
+
+**Data / DevOps**
+<br>
+<img src="https://img.shields.io/badge/apache_spark-FDEE21?style=for-the-badge&logo=apachespark" />
+<img src="https://img.shields.io/badge/hadoop-66CCFF?style=for-the-badge&logo=apachehadoop" />
+<img src="https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonaws" />
+<img src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker" />
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux" />
+
 ---
 
 ## 📊 GitHub Stats
@@ -30,49 +63,6 @@
     </td>
     <td>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhumikapandey1992&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 💻 Tech Stack
-
-<table width="100%">
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Languages</strong><br><br>
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python" />
-      <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript" />
-      <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java" />
-      <img src="https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql" />
-      <br><br>
-      <strong>Backend</strong><br><br>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi" />
-      <img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js" />
-      <img src="https://img.shields.io/badge/rest_api-02569B?style=for-the-badge" />
-      <br><br>
-      <strong>Frontend</strong><br><br>
-      <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react" />
-      <img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=next.js" />
-      <img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css" />
-    </td>
-    <td valign="top" width="50%">
-      <strong>AI / ML</strong><br><br>
-      <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn" />
-      <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas" />
-      <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy" />
-      <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai" />
-      <br><br>
-      <strong>Data Engineering</strong><br><br>
-      <img src="https://img.shields.io/badge/apache_spark-FDEE21?style=for-the-badge&logo=apachespark" />
-      <img src="https://img.shields.io/badge/hadoop-66CCFF?style=for-the-badge&logo=apachehadoop" />
-      <br><br>
-      <strong>DevOps / Tools</strong><br><br>
-      <img src="https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonaws" />
-      <img src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker" />
-      <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git" />
-      <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux" />
     </td>
   </tr>
 </table>
