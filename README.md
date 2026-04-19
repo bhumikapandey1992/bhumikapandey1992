@@ -54,11 +54,11 @@
 <tr>
 
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bhumikapandey1992&repo=YOUR-ML-REPO&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=bhumikapandey1992&repo=DocumentChatAI&hide_border=true" />
 </td>
 
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bhumikapandey1992&repo=YOUR-SYSTEM-DESIGN-REPO&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=bhumikapandey1992&repo=multi-tool-ai-agent&hide_border=true" />
 </td>
 
 </tr>
