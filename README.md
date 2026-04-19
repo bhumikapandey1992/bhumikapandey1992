@@ -46,7 +46,7 @@
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="100%">
 
 ### Languages  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python)
