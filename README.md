@@ -113,6 +113,7 @@
 
 </td>
 <td width="33%" valign="top">
+  
 ### ⚡ About Me
 - 🎓 MS Computer Science @ UTA
 - 💼 6+ years in software engineering
