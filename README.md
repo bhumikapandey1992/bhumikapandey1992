@@ -36,37 +36,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<table width="100%">
-<tr>
-
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bhumikapandey1992&repo=DocumentChatAI&hide_border=true" />
-</td>
-
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bhumikapandey1992&repo=multi-tool-ai-agent&hide_border=true" />
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bhumikapandey1992&repo=DocumentChatAI&hide_border=true" />
-</td>
-
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bhumikapandey1992&repo=multi-tool-ai-agent&hide_border=true" />
-</td>
-
-</tr>
-
-</table>
-
----
-
 ## 💻 Tech Stack
 
 <table width="100%">
