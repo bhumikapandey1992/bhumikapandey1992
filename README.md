@@ -1,16 +1,15 @@
 # 💫 Hi 👋, I'm Bhumika Pandey
-### Software Engineer | Machine Learning | MS CS @ UTA
+### Software Engineer | Machine Learning Enthusiast | MS CS @ UTA
 
-💻 Former Salesforce Solution Lead (6+ years experience)  
-🧠 Focused on Machine Learning, LLM apps & Distributed Systems  
-🚀 Building AI-powered applications & learning platforms  
+💻 Former Salesforce Solution Lead with 6+ years industry experience  
+🧠 Currently focusing on Machine Learning, AI Systems & Distributed Systems  
+🚀 Building AI-powered applications and scalable learning platforms  
 
 📍 Arlington, Texas  
 📫 bhupandey101@gmail.com  
 
 ---
-
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <table>
 <tr>
@@ -43,229 +42,176 @@
 </table>
 
 ---
-
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### Languages
-Python • JavaScript • Java • SQL
+### Languages  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java)
+![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql)
 
-### Backend
-FastAPI • NodeJS • REST API
+### Backend  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![NodeJS](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js)
+![REST API](https://img.shields.io/badge/rest_api-02569B?style=for-the-badge)
 
-### Frontend
-React • NextJS • TailwindCSS
+### Frontend  
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react)
+![NextJS](https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css)
 
 </td>
+<td valign="top" width="50%">
 
-<td width="50%" valign="top">
+### AI / ML  
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy)
+![OpenAI](https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai)
 
-### AI / ML
-Scikit-learn • Pandas • NumPy • OpenAI
+### Data Engineering  
+![Apache Spark](https://img.shields.io/badge/apache_spark-FDEE21?style=for-the-badge&logo=apachespark)
+![Hadoop](https://img.shields.io/badge/hadoop-66CCFF?style=for-the-badge&logo=apachehadoop)
 
-### Data Engineering
-Apache Spark • Hadoop
-
-### DevOps
-AWS • Docker • Git • Linux
+### DevOps / Tools  
+![AWS](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux)
 
 </td>
 </tr>
 </table>
 
----
-
-# ✨ More About Me
+## ✨ More About Me
 
 <table>
 <tr>
-
-<td width="33%" valign="top">
+<td valign="top" width="33%">
 
 ### 🔭 Current Focus
-
-Machine Learning Engineering  
-LLM Apps & RAG Systems  
-Data Structures & Algorithms  
-System Design  
-Distributed Systems  
-AI Learning Platform  
-
-<br><br>
+- Machine Learning Engineering
+- LLM Apps & RAG Systems
+- Data Structures & Algorithms
+- System Design
+- Distributed Systems
+- Building AI learning platform
 
 </td>
+<td valign="top" width="33%">
 
-<td width="33%" valign="top">
-
-### 🤝 Collaborate On
-
-AI projects  
-ML applications  
-Open source contributions  
-Backend systems  
-System design projects  
-
-<br><br><br>
+### 🤝 Open to Collaborate On
+- AI projects
+- ML applications
+- Open source contributions
+- Backend systems
+- System design projects
 
 </td>
+<td valign="top" width="33%">
 
-<td width="33%" valign="top">
-
-### ⚡ Background
-
-MS Computer Science @ UTA  
-6+ years software engineering  
-Banking & healthcare domain  
-APIs, cloud systems  
-Distributed architecture  
-
-<br><br>
+### ⚡ About Me
+- 🎓 MS Computer Science @ UTA
+- 💼 6+ years in software engineering
+- 🏦 Banking & healthcare systems
+- ☁️ APIs, cloud, distributed systems
+- 🧩 Love solving engineering problems
 
 </td>
-
 </tr>
 </table>
 
----
-
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 ### 📄 DocumentChatAI
+Chat with documents using Retrieval Augmented Generation (RAG)
 
-RAG-based document chat system.
+**Tech:**  
+FastAPI • Next.js • LangChain • OpenAI • Redis • Celery
 
-Stack  
-FastAPI  
-Next.js  
-LangChain  
-OpenAI  
-Redis  
-Celery  
-
-Key Features  
-Semantic search  
-Context aware responses  
-Scalable architecture  
-
-<br>
+**Highlights**
+- semantic search
+- context aware responses
+- scalable backend architecture
 
 </td>
 
 <td width="50%" valign="top">
 
 ### 🧠 AI Learning Platform (WIP)
+Interactive learning platform inspired by HackerRank.
 
-Interactive coding + ML learning platform.
-
-Focus Areas  
-Python  
-DSA  
-Machine Learning  
-SQL  
-System Design  
-
-Goal  
-HackerRank-style environment  
-
-<br><br>
+**Focus Areas**
+- Python
+- Data Structures & Algorithms
+- Machine Learning
+- SQL
+- System Design
 
 </td>
-
 </tr>
 </table>
 
----
-
-# 🧩 Problem Solving
-
-Currently practicing
-
-Arrays  
-Strings  
-HashMaps  
-Trees  
-Graphs  
-Dynamic Programming  
-
-LeetCode practice ongoing.
-
----
-
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/bhumika-pandey-9b9b96118/">
-LinkedIn
-</a> •
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <a href="mailto:bhupandey101@gmail.com">
-Email
-</a> •
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <a href="https://www.youtube.com/@bracesandsemicolons5730">
-YouTube
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 </p>
 
----
-
-# 🎯 2026 Goals
+## 🎯 2026 Goals
 
 <table>
 <tr>
-
 <td width="33%" valign="top">
 
-### 🤖 AI Engineering
-
-Build ML portfolio  
-Develop LLM apps  
-Deploy AI systems  
-Improve system design  
-
-<br><br>
+### 🤖 AI & Engineering
+- Build strong ML portfolio
+- Develop LLM applications
+- Deploy scalable AI systems
+- Master system design
 
 </td>
 
 <td width="33%" valign="top">
 
 ### 📚 Learning Platform
-
-Create coding challenges  
-Add ML modules  
-Build evaluation engine  
-Deploy production version  
-
-<br>
+- Build HackerRank-style platform
+- Add coding challenges
+- Add ML learning modules
+- Deploy production version
 
 </td>
 
 <td width="33%" valign="top">
 
 ### 🚀 Personal Growth
-
-Grow YouTube channel  
-Publish tutorials  
-Launch small product  
-Run 5K marathon  
-
-<br><br>
+- Grow YouTube channel
+- Publish technical content
+- Launch small business
+- Run 5K marathon
 
 </td>
 
 </tr>
 </table>
-
----
-
 ⭐ From Bhumika Pandey
