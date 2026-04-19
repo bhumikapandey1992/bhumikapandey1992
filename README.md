@@ -12,7 +12,7 @@
 
 ## 📊 GitHub Stats
 
-<table>
+<table width="100%">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=bhumikapandey1992&show_icons=true&hide_border=true" />
@@ -23,7 +23,7 @@
   </tr>
 </table>
 
-<table>
+<table width="100%">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumikapandey1992&layout=compact&hide_border=true" />
@@ -38,7 +38,7 @@
 
 ## 💻 Tech Stack
 
-<table>
+<table width="100%">
   <tr>
     <td valign="top" width="50%">
       <strong>Languages</strong><br><br>
@@ -81,7 +81,7 @@
 
 ## ✨ More About Me
 
-<table>
+<table width="100%">
   <tr>
     <td width="33%" valign="top">
       <strong>🔭 Current Focus</strong><br><br>
@@ -115,7 +115,7 @@
 
 ## 🚀 Featured Projects
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <strong>📄 DocumentChatAI</strong><br><br>
@@ -169,7 +169,7 @@ LeetCode practice ongoing.
 
 ## 🎯 2026 Goals
 
-<table>
+<table width="100%">
   <tr>
     <td width="33%" valign="top">
       <strong>🤖 AI &amp; Engineering</strong><br><br>
