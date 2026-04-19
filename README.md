@@ -177,16 +177,41 @@ Interactive learning platform inspired by HackerRank.
 </a>
 
 </p>
----
 
-# 🎯 2026 Goals
+## 🎯 2026 Goals
 
-- Build strong AI portfolio
-- Contribute to open source
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🤖 AI & Engineering
+- Build strong ML portfolio
+- Develop LLM applications
+- Deploy scalable AI systems
+- Master system design
+
+</td>
+
+<td width="33%" valign="top">
+
+### 📚 Learning Platform
+- Build HackerRank-style platform
+- Add coding challenges
+- Add ML learning modules
+- Deploy production version
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🚀 Personal Growth
 - Grow YouTube channel
-- Build learning platform
-- Get ML / SWE role
+- Publish technical content
+- Launch small business
+- Run 5K marathon
 
----
+</td>
 
+</tr>
+</table>
 ⭐ From Bhumika Pandey
