@@ -2,14 +2,15 @@
 ### Software Engineer | Machine Learning Enthusiast | MS CS @ UTA
 
 💻 Former Salesforce Solution Lead with 6+ years industry experience  
-🧠 Currently focusing on Machine Learning, AI Systems & Distributed Systems  
+🧠 Focused on Machine Learning, AI Systems & Distributed Systems  
 🚀 Building AI-powered applications and scalable learning platforms  
 
 📍 Arlington, Texas  
 📫 bhupandey101@gmail.com  
 
 ---
-## 📊 GitHub Stats
+
+# 📊 GitHub Stats
 
 <table>
 <tr>
@@ -42,42 +43,52 @@
 </table>
 
 ---
-## 💻 Tech Stack
+
+# 💻 Tech Stack
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### Languages  
+### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript)
 ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java)
 ![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql)
 
-### Backend  
+<br>
+
+### Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![NodeJS](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js)
 ![REST API](https://img.shields.io/badge/rest_api-02569B?style=for-the-badge)
 
-### Frontend  
+<br>
+
+### Frontend
 ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react)
 ![NextJS](https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css)
 
 </td>
+
 <td valign="top" width="50%">
 
-### AI / ML  
+### AI / ML
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy)
 ![OpenAI](https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai)
 
-### Data Engineering  
+<br>
+
+### Data Engineering
 ![Apache Spark](https://img.shields.io/badge/apache_spark-FDEE21?style=for-the-badge&logo=apachespark)
 ![Hadoop](https://img.shields.io/badge/hadoop-66CCFF?style=for-the-badge&logo=apachehadoop)
 
-### DevOps / Tools  
+<br>
+
+### DevOps / Tools
 ![AWS](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git)
@@ -87,80 +98,120 @@
 </tr>
 </table>
 
-## ✨ More About Me
+---
+
+# ✨ More About Me
 
 <table>
 <tr>
-<td valign="top" width="33%">
+
+<td width="33%" valign="top">
 
 ### 🔭 Current Focus
-- Machine Learning Engineering
-- LLM Apps & RAG Systems
-- Data Structures & Algorithms
-- System Design
-- Distributed Systems
-- Building AI learning platform
+
+Machine Learning Engineering  
+LLM Apps & RAG Systems  
+Data Structures & Algorithms  
+System Design  
+Distributed Systems  
+AI Learning Platform  
 
 </td>
-<td valign="top" width="33%">
 
-### 🤝 Open to Collaborate On
-- AI projects
-- ML applications
-- Open source contributions
-- Backend systems
-- System design projects
+<td width="33%" valign="top">
 
-</td>
-<td valign="top" width="33%">
+### 🤝 Collaborate On
 
-### ⚡ About Me
-- 🎓 MS Computer Science @ UTA
-- 💼 6+ years in software engineering
-- 🏦 Banking & healthcare systems
-- ☁️ APIs, cloud, distributed systems
-- 🧩 Love solving engineering problems
+AI projects  
+ML applications  
+Open source contributions  
+Backend systems  
+System design projects  
 
 </td>
+
+<td width="33%" valign="top">
+
+### ⚡ Background
+
+MS Computer Science @ UTA  
+6+ years software engineering  
+Banking & healthcare systems  
+APIs, cloud, distributed systems  
+Problem solving mindset  
+
+</td>
+
 </tr>
 </table>
 
-## 🚀 Featured Projects
+---
+
+# 🚀 Featured Projects
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 📄 DocumentChatAI
-Chat with documents using Retrieval Augmented Generation (RAG)
 
-**Tech:**  
-FastAPI • Next.js • LangChain • OpenAI • Redis • Celery
+Chat with documents using RAG architecture.
+
+**Stack**
+
+FastAPI  
+Next.js  
+LangChain  
+OpenAI  
+Redis  
+Celery  
 
 **Highlights**
-- semantic search
-- context aware responses
-- scalable backend architecture
+
+Semantic search  
+Context aware answers  
+Scalable backend architecture  
 
 </td>
 
 <td width="50%" valign="top">
 
 ### 🧠 AI Learning Platform (WIP)
+
 Interactive learning platform inspired by HackerRank.
 
 **Focus Areas**
-- Python
-- Data Structures & Algorithms
-- Machine Learning
-- SQL
-- System Design
+
+Python  
+Data Structures & Algorithms  
+Machine Learning  
+SQL  
+System Design  
 
 </td>
+
 </tr>
 </table>
 
-## 🌐 Connect With Me
+---
+
+# 🧩 Problem Solving
+
+Currently practicing:
+
+Arrays  
+Strings  
+HashMaps  
+Trees  
+Graphs  
+Dynamic Programming  
+
+LeetCode practice ongoing.
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -178,40 +229,49 @@ Interactive learning platform inspired by HackerRank.
 
 </p>
 
-## 🎯 2026 Goals
+---
+
+# 🎯 2026 Goals
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
 ### 🤖 AI & Engineering
-- Build strong ML portfolio
-- Develop LLM applications
-- Deploy scalable AI systems
-- Master system design
+
+Build strong ML portfolio  
+Develop LLM applications  
+Deploy scalable AI systems  
+Master system design  
 
 </td>
 
 <td width="33%" valign="top">
 
 ### 📚 Learning Platform
-- Build HackerRank-style platform
-- Add coding challenges
-- Add ML learning modules
-- Deploy production version
+
+Build HackerRank-style platform  
+Add coding challenges  
+Add ML modules  
+Deploy production version  
 
 </td>
 
 <td width="33%" valign="top">
 
 ### 🚀 Personal Growth
-- Grow YouTube channel
-- Publish technical content
-- Launch small business
-- Run 5K marathon
+
+Grow YouTube channel  
+Publish technical content  
+Launch small business  
+Run 5K marathon  
 
 </td>
 
 </tr>
 </table>
+
+---
+
 ⭐ From Bhumika Pandey
