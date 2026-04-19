@@ -159,12 +159,24 @@ Interactive learning platform inspired by HackerRank.
 </td>
 </tr>
 </table>
-# 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhumika-pandey-9b9b96118/)
+## 🌐 Connect With Me
 
-[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/@bracesandsemicolons5730)
+<p align="center">
 
+<a href="https://www.linkedin.com/in/bhumika-pandey-9b9b96118/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:bhupandey101@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@bracesandsemicolons5730">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+</p>
 ---
 
 # 🎯 2026 Goals
