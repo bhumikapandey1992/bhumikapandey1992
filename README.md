@@ -125,50 +125,40 @@
 </tr>
 </table>
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 📄 DocumentChatAI
-Chat with your documents using Retrieval Augmented Generation (RAG)
+Chat with documents using Retrieval Augmented Generation (RAG)
 
-Tech Stack:
+**Tech:**  
 FastAPI • Next.js • LangChain • OpenAI • Redis • Celery
 
-Features:
-- Semantic search
-- Context aware answers
-- scalable architecture
+**Highlights**
+- semantic search
+- context aware responses
+- scalable backend architecture
 
----
+</td>
 
-### 🧠 AI Learning Platform (In progress)
+<td width="50%" valign="top">
 
-Platform for learning:
+### 🧠 AI Learning Platform (WIP)
+Interactive learning platform inspired by HackerRank.
 
+**Focus Areas**
 - Python
 - Data Structures & Algorithms
 - Machine Learning
 - SQL
 - System Design
 
-Inspired by HackerRank style learning.
-
----
-
-# 🧩 Problem Solving
-
-Currently practicing:
-
-- Arrays
-- Strings
-- HashMaps
-- Trees
-- Graphs
-- Dynamic Programming
-
-LeetCode practice ongoing.
-
----
-
+</td>
+</tr>
+</table>
 # 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhumika-pandey-9b9b96118/)
