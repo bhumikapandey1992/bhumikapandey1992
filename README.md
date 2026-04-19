@@ -162,10 +162,4 @@ LeetCode practice ongoing.
 
 ---
 
-# ✍️ Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal)
-
----
-
 ⭐ From Bhumika Pandey
