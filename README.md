@@ -87,8 +87,13 @@
 </tr>
 </table>
 
-# 🔭 Current Focus
+## ✨ More About Me
 
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 🔭 Current Focus
 - Machine Learning Engineering
 - LLM Apps & RAG Systems
 - Data Structures & Algorithms
@@ -96,27 +101,29 @@
 - Distributed Systems
 - Building AI learning platform
 
----
+</td>
+<td valign="top" width="33%">
 
-# 🤝 Looking to collaborate on
-
+### 🤝 Open to Collaborate On
 - AI projects
 - ML applications
 - Open source contributions
 - Backend systems
 - System design projects
 
----
+</td>
+<td valign="top" width="33%">
 
-# ⚡ About Me
+### ⚡ About Me
+- 🎓 MS Computer Science @ UTA
+- 💼 6+ years in software engineering
+- 🏦 Banking & healthcare systems
+- ☁️ APIs, cloud, distributed systems
+- 🧩 Love solving engineering problems
 
-- 🎓 MS Computer Science @ University of Texas at Arlington
-- 💼 6+ years experience in enterprise software engineering
-- 🏦 Built scalable systems in banking & healthcare domains
-- ⚙️ Strong experience with APIs, cloud platforms, distributed systems
-- 🧩 Passionate about solving complex engineering problems
-
----
+</td>
+</tr>
+</table>
 
 # 🚀 Featured Projects
 
