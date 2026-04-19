@@ -15,13 +15,37 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhumikapandey1992)
 
 ---
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=bhumikapandey1992&theme=default&hide_border=false&include_all_commits=true&count_private=true)
+<table>
+<tr>
+<td>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=bhumikapandey1992&theme=default&hide_border=false)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bhumikapandey1992&show_icons=true&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhumikapandey1992&layout=compact)
+</td>
+<td>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhumikapandey1992&hide_border=true)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhumikapandey1992&layout=compact&hide_border=true)
+
+</td>
+<td>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhumikapandey1992&hide_border=true)
+
+</td>
+</tr>
+</table>
 
 ---
 # 💻 Tech Stack
